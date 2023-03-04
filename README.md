@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/kumar19999uday/kumar19999uday/blob/main/uday%20kumar%20(1).png)
+![logo](https://github.com/kumar19999uday/kumar19999uday/blob/main/254-2545959_welcome-web-development-banner-png.png)
 <h1 align="center">Hi 👋, I'm Uday kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align ="right"alt="coding" width="400" src="https://envri.eu/wp-content/uploads/2016/08/software-developer-copy.jpg"
